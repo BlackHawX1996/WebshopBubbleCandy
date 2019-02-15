@@ -6,12 +6,36 @@
 header
 {
     background-color: #C8E7ED;
+    height: 175px; 
+    width: 100%;
 }
 main
 {
     background-color: #FFFFC2;
+    width:  100%;
+    height: 400px;
 }
 footer
 {
     background-color: #FFFFC2;
+}
+
+
+ul
+{
+    margin-left: 400px;
+    margin-top: -100px;
+}
+
+li
+{
+    list-style: none;
+    display: inline-block;
+    width: 10%;
+}
+
+#logo
+{
+    height: 175px;
+    width : 175px;
 }
