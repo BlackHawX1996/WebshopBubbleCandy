@@ -1,3 +1,17 @@
-body{
-    background: blue;
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+header
+{
+    background-color: #C8E7ED;
+}
+main
+{
+    background-color: #FFFFC2;
+}
+footer
+{
+    background-color: #FFFFC2;
 }
