@@ -58,3 +58,12 @@ footer
     background-color: #C8E7ED;
     height: 100px;
 }
+/* Ik hou ook van jou hoor, groetjes, Pablitos Carlitos Escobaros */
+section
+{
+    width: 23%;
+    height: 450px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px;
+}
