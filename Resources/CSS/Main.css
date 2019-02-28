@@ -4,6 +4,10 @@
     padding: 0px;
     color: black;
 }
+body
+{
+    background-color: #FFFFC2;
+}
 header
 {
     background-color: #C8E7ED;
@@ -14,11 +18,15 @@ main
 {
     background-color: #FFFFC2;
     width:  100%;
-    height: calc(100% - 100px - 175px);
+
 }
 footer
 {
-    background-color: #FFFFC2;
+    background-color: #C8E7ED;
+    position: fixed;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
 }
 
 
@@ -50,20 +58,19 @@ a
     height: 175px;
     width : 175px;
 }
-footer
-{
-    width: 100%;
-    position: absolute;
-    bottom: 0px;
-    background-color: #C8E7ED;
-    height: 100px;
-}
 /* Ik hou ook van jou hoor, groetjes, Pablitos Carlitos Escobaros */
 section
 {
     width: 23%;
     height: 450px;
-    border: 1px solid black;
+
     float: left;
     margin: 10px;
+    text-align: center;
+}
+.standaardplaatje
+{
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
 }
