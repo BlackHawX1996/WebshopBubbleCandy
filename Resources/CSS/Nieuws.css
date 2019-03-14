@@ -1,0 +1,25 @@
+main
+{
+    text-align: center;
+}
+#nieuws1
+{
+    float: left;
+}
+#nieuws2
+{
+    float: right; 
+}
+div
+{
+    height: 400px;
+    width:500px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+hr
+{
+    position: absolute;
+    bottom: 300px;
+}

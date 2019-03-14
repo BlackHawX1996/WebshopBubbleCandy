@@ -1,0 +1,9 @@
+.headerLink:hover{
+    background-color: #FFFFC2;
+}
+
+.itemSection:hover {
+    border: solid 2px red;
+    width: calc(22% - 4px);
+    height: calc(450px - 4px);
+}
