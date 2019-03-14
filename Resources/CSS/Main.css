@@ -28,6 +28,11 @@ footer
     height: 50px;
     width: 100%;
 }
+p
+{
+    
+    
+}
 
 
 ul
@@ -67,6 +72,12 @@ section
     float: left;
     margin: 10px;
     text-align: center;
+
+    background-color: #C8E7ED;
+}
+section>p
+{
+    color: #FFA6A6;
 }
 .standaardplaatje
 {
