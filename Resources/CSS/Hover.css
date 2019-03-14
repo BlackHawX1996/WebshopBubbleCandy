@@ -1,0 +1,5 @@
+.itemSection:hover {
+    border: solid 2px red;
+    width: --Calc(23% - 5px);
+    height: --Calc(450px - 5px);
+}

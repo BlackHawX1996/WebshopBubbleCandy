@@ -1,27 +1,25 @@
-*
-{
+* {
     margin: 0px;
     padding: 0px;
     color: black;
 }
-body
-{
+
+body {
     background-color: #FFFFC2;
 }
-header
-{
+
+header {
     background-color: #C8E7ED;
-    height: 175px; 
+    height: 175px;
     width: 100%;
 }
-main
-{
-    background-color: #FFFFC2;
-    width:  100%;
 
+main {
+    background-color: #FFFFC2;
+    width: 100%;
 }
-footer
-{
+
+footer {
     background-color: #C8E7ED;
     position: fixed;
     bottom: 0px;
@@ -29,15 +27,12 @@ footer
     width: 100%;
 }
 
-
-ul
-{
+ul {
     margin-left: 400px;
     margin-top: -100px;
 }
 
-li
-{
+li {
     list-style: none;
     display: inline-block;
     text-align: center;
@@ -48,28 +43,24 @@ li
     padding-top: 20;
 }
 
-a
-{
+a {
     text-decoration: none;
 }
 
-#logo
-{
+#logo {
     height: 175px;
-    width : 175px;
+    width: 175px;
 }
-/* Ik hou ook van jou hoor, groetjes, Pablitos Carlitos Escobaros */
-section
-{
+
+.itemSection {
     width: 23%;
     height: 450px;
-
     float: left;
     margin: 10px;
     text-align: center;
 }
-.standaardplaatje
-{
+
+.placeholderImage {
     width: 300px;
     height: 200px;
     margin-top: 10px;
